@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d40e2887-eecb-4d0f-baa5-bfa9ee53c3b9" name="Default Changelist" comment="Napravljene metode za klase Korpa i Supermarket.">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/rpr2019-t1-z4/ba/unsa/etf/rpr/Artikl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Korpa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Korpa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Supermarket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Supermarket.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jeD7u7pnkTF8LjMNcbgHQIORuG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.Main" />
+      <module name="rpr2019-t1-z4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rpr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d40e2887-eecb-4d0f-baa5-bfa9ee53c3b9" name="Default Changelist" comment="" />
+      <created>1604155499685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604155499685</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Napravljene metode za klasu Artikl.">
+      <created>1604187903741</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604187903741</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Napravljene metode za klasu Artikl." />
+    <MESSAGE value="Napravljene metode za klase Korpa i Supermarket." />
+    <option name="LAST_COMMIT_MESSAGE" value="Napravljene metode za klase Korpa i Supermarket." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1604155697846">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1604155697846" />
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1604191527640">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1604191527640" />
+    <state x="270" y="0" key="CommitChangelistDialog2" timestamp="1604192815132">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="270" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1604192815132" />
+    <state width="1237" height="248" key="GridCell.Tab.0.bottom" timestamp="1604192815249">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="248" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604192815249" />
+    <state width="1237" height="248" key="GridCell.Tab.0.center" timestamp="1604192815249">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="248" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604192815249" />
+    <state width="1237" height="248" key="GridCell.Tab.0.left" timestamp="1604192815249">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="248" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604192815249" />
+    <state width="1237" height="248" key="GridCell.Tab.0.right" timestamp="1604192815249">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="248" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604192815249" />
+    <state x="756" y="88" key="refactoring.ChangeSignatureDialog" timestamp="1604156235631">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="756" y="88" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1604156235631" />
+  </component>
+</project>
