@@ -3,12 +3,18 @@ package ba.unsa.etf.rpr;
 public class Supermarket {
    private Artikl[] artikli =new Artikl[1000];
    private int br=0;
-   public boolean dodajArtikl(Artikl a ){
+
+    public int getBr() {
+        return br;
+    }
+
+    public boolean dodajArtikl(Artikl a ){
   if(br<1000){
      artikli[br]=new Artikl(a.getNaziv(),a.getCijena(),a.getKod());
      br=br+1;
      return true;
   }
+
   return false;
    }
    public Artikl[] getArtikli() {
